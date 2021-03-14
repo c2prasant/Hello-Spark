@@ -7,5 +7,6 @@ object HelloWorld extends App{
   println("THis is related Git demo")
 
   println("hello git")
+    println("hello git")
 
 }
